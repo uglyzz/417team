@@ -1,0 +1,274 @@
+.test ul{
+    list-style: none;
+    /* 去掉点 */
+}
+
+.test ul li a{
+    /* 字体颜色大小 */
+    display: block;
+    width: 120px;
+    font-size: 15px;
+    line-height: 40px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.test ul li{
+    /* 左浮动 使其横向布局 */
+    float: left;
+}
+
+.test{
+    /* 居中 */
+    margin: 0 auto;
+}
+
+.test ul li a:hover{
+    /* 动态效果 */
+    color: black;
+    background-color: white;
+}
+
+.test ul li ul li {
+    /* 清除子菜单浮动 */
+    clear: both;
+}
+
+.test ul li ul li a{
+    /* 字体大小 */
+    font-size: 13px;
+}
+
+.test ul li ul{
+    /* 向左位移 */
+    margin-left: -40px;
+    display: none;
+}
+
+.test ul li:hover ul{
+    /* 动态效果 */
+    display: block;
+}
+
+.test ul li ul li a{
+    /* 字体背景颜色 */
+    background-color: white ;
+    color: black ;
+}
+
+.test ul li ul li a:hover{
+    /* 动态 */
+    color: white ;
+    background-color: black ;
+}
+
+.test > ul{
+    position: absolute;
+    z-index: 1;
+}
+
+.test1{
+    height: 85px;
+    width: 100%;
+    background-color: black;
+}
+
+.home{
+    /* 背景颜色 */
+    background-color: black;
+    height: 40px;
+}
+
+.home ul{
+    /* 向右 */
+    list-style: none;
+    float: right;
+}
+
+.home li{
+    float: left;
+}
+
+.button5{
+    /* 按钮 */
+    display: block;
+    line-height: 40px;
+    color: white;
+    padding: 0 20px;
+    text-decoration: none;
+    transition: .2s;
+}
+
+.button5:hover{
+    /* 按钮动效效果 */
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+.test2{
+    width: 210px;
+    height: 30px;
+    margin-left: 1110px;
+    margin-top: -20px;
+    border: 1px solid white ;
+}
+
+.boxc{
+    /* 第一个盒子背景大小颜色 */
+    height: 50px;
+    background-color:rgb(223, 221, 221) ;
+}
+.box1 p{
+    /* 字体大小，行高间距 */
+    font-size: 26px;
+    line-height: 50px;
+    /* line-height:行高间距 */
+}
+.box2 a{
+    /* 设置第二个盒子颜色与字体状态 */
+    background-color: white;
+    height: 100px;
+    color: black;
+    text-decoration: underline;
+    /* text-decoration：字体下划线 */
+    line-height: 100px;
+    /* line-height:行高间距 */
+}
+.box3{
+     text-align: center;
+     /* 设置居中 */
+}
+.box4{
+    background-color:rgb(223, 221, 221) ;
+}
+.button1{
+    /* 设置按钮大小,字体加粗 */
+    width: 200px;
+    height: 46px;
+    /* display:block:设置块级 */
+    display: block;
+    border: 2px solid black;
+    line-height: 46px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.button1:hover{
+    /* 设置按钮动画效果 */
+    border: none;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+.box5 {
+    /* box5:离上一个间距 */
+    margin-top: 50px;
+}
+.box6{
+    /* box6：第四个盒子颜色宽度 */
+    height: 120px;
+    background-color:white ;
+}
+.box6 a{
+    /* 设置按钮在盒子里间距 */
+    margin: 37px auto;
+}
+.box7{
+    /* box7:设置距离底部距离 */
+    margin-bottom: 50px;
+}
+.box8{
+    background-color:rgb(223, 221, 221) ;
+    /* box8:第五个盒子颜色 */
+}
+.box9{
+    height: 106px;
+    background-color: white;
+}
+.box10 a{
+    margin: 53px auto;
+    text-align: center;
+}
+.box11{
+    /* 盒子颜色 */
+    background-color:rgb(223, 221, 221) ;
+}
+.box12 a{
+    color: black;
+    text-decoration: none;
+}
+.footer{
+    height: 260px;
+    background-color: black;
+}
+
+.footer a:hover{
+    transition: .2s;
+    color: #c7c8ca;
+    text-decoration: none;
+}
+
+.about{
+    padding: 30px 0 25px;
+    margin-bottom: 60px;
+    border-bottom: 2px solid #636466;
+}
+
+.about ul{
+    list-style: none;
+    padding: 0;
+}
+
+.about li{
+    float: left;
+    font-size: 18px;
+    font-weight: normal;
+    padding-right: 50px;
+}
+
+.about a{
+    color: white;
+}
+
+.sns a{
+    margin: 0 10px;
+    color: white;
+}
+
+.wechat{
+    vertical-align: sub;
+}
+
+.youku{
+    vertical-align: super;
+}
+
+.linkedin{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.menu{
+    font-size: 13px;
+    padding-top: 10px;
+    border-top: 2px solid #636466;
+}
+
+.menu ul{
+    list-style: none;
+    padding: 0;
+}
+
+.menu li{
+    float: left;
+    padding-right: 15px;
+}
+
+.menu a, .menu li{
+    color: white;
+}

@@ -1,0 +1,258 @@
+.btn1{
+    margin-top: 30px;
+    width: 200px;
+    height: 46px;
+    display: block;
+    border: 2px solid white;
+    line-height: 46px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    transition: .3s;
+}
+
+.btn1:hover{
+    border: 2px solid black;
+    background-color: rgba(255, 255, 255, 0.3);
+    color: white;
+    text-decoration: none;
+}
+
+.btn2{
+    margin-top: 30px;
+    width: 200px;
+    height: 46px;
+    display: block;
+    border: 2px solid black;
+    line-height: 46px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    transition: .3s;
+}
+
+.btn2:hover{
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+
+.inp{
+    background-image: url(../img/952150-chinajoy2021-bg-v2-1920x600.webp);
+    height: 100%;
+}
+.inp2{
+    background-image: url(../img/4-1.webp);
+    height: 484px;
+}
+.imgs{
+    width: 100%;
+    height: 484px;
+}
+.inp3{
+    width: 600px;
+    height: 342px;
+    background-color: white;
+    margin-top: 70px;
+    
+}
+
+.text1{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 0px 40px;
+}
+.text1 a{
+    margin: 0 auto ;
+}
+.text1 h3{
+    margin: 0;
+}
+
+.text2{
+    text-align: center;
+    padding: 20px 0px;
+}
+.text2 a{
+    
+    color: black;
+}
+.text3{
+    background-color: black;
+}
+.text4{
+    color: white;
+    margin: 200px 40px;
+}
+.text5{
+    background-image: url(../img/4.5.webp);
+    color: white;
+
+}
+.text6{
+    background-color: rgba(51,51,51,1);
+    color: white;
+    padding: 50px 40px;
+}
+.text7{
+    background-image: url(../img/952150-chinajoy2021-bg-v2-1920x600.webp);
+    color: white;
+}
+.text8{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.text8 a{
+    margin: 0 auto;
+}
+.footer1{
+    height: 261px;
+    width: 100%;  
+    padding-top: 30px;
+    background-color: black; 
+    border: 1px solid black;
+}
+
+.footer2{
+    height: 60px;
+    width: 1140px;  
+    margin: auto;
+    padding: 20px;
+    border-bottom: 1px solid rgb(228, 226, 226);
+    background-color: black; 
+}
+
+span a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.footer3{
+    height: 80px;
+    width: 1140px;  
+    margin: auto;
+    margin-top: 1px;
+    background-color: black; 
+    border-bottom: 1px solid rgb(235, 232, 232);
+}
+
+.footer4{
+    height: 80px;
+    width: 1140px;  
+    margin: auto;
+    margin-top: 1px;
+    background-color: black; 
+    border: 1px solid black;
+}
+.test ul{
+    list-style: none;
+}
+
+.test ul li a{
+    display: block;
+    width: 120px;
+    font-size: 15px;
+    line-height: 40px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.test ul li{
+    /* 左浮动 使其横向布局 */
+    float: left;
+}
+
+.test{
+    margin: 0 auto;
+}
+
+.test ul li a:hover{
+    color: black;
+    background-color: white;
+}
+
+.test ul li ul li {
+    /* 清除子菜单浮动 */
+    clear: both;
+}
+
+.test ul li ul li a{
+    font-size: 13px;
+}
+
+.test ul li ul{
+    margin-left: -40px;
+    display: none;
+}
+
+.test ul li:hover ul{
+    display: block;
+}
+
+.test ul li ul li a{
+    background-color: white ;
+    color: black ;
+}
+
+.test ul li ul li a:hover{
+    color: white ;
+    background-color: black ;
+}
+
+.test > ul{
+    position: absolute;
+    z-index: 1;
+}
+
+.test1{
+    height: 85px;
+    width: 100%;
+    background-color: black;
+}
+
+.home{
+    background-color: black;
+    height: 40px;
+}
+
+.home ul{
+    list-style: none;
+    float: right;
+}
+
+.home li{
+    float: left;
+}
+
+.button1{
+    display: block;
+    line-height: 40px;
+    color: white;
+    padding: 0 20px;
+    text-decoration: none;
+    transition: .2s;
+}
+
+.button1:hover{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+.test2{
+    width: 210px;
+    height: 30px;
+    margin-left: 1600px;
+    margin-top: -20px;
+    border: 1px solid white ;
+}
+

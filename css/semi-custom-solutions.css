@@ -1,0 +1,212 @@
+.inp{
+    height: 111px;
+    margin: 0px auto;
+}
+.inp1{
+    width: 291px;
+    height: 36px;
+    position: relative;
+    top: 37px;
+    left: 30px;
+}
+.inp2{
+    background-image: url(../img/95365-semi-custom-die-background.webp);
+    padding: 100px 40px;
+    text-align: center;
+}
+.inp2 h2{
+    font-size: 90px;
+    color: white;
+}
+.box1{
+    height: 56px;
+    text-align: center;
+    margin: 0 auto;
+}
+.box1 a{
+    margin: 5px 10px;    
+}
+.text1{
+    color: black;
+}
+.inp3{
+    padding: 40px;
+    background-color: #e1e2e1;
+}
+.inp4{
+    background-color: #c7c9ca;
+    padding: 0 40px;
+}
+.text2{
+    padding-top: 10px;
+}
+.box input, textarea{
+    border: 2px solid black;
+    background-color: transparent;
+}
+.box2{
+    padding-bottom: 40px;
+}
+
+.but{
+    margin-top: 30px;
+    width: 200px;
+    height: 46px;
+    display: block;
+    border: 2px solid black;
+    line-height: 46px;
+    color: black;
+    text-align: center;
+}
+.but:hover{
+    border: 1px solid black;
+    background-color:  black;
+    color: white;
+    text-decoration: none;
+}
+
+.test ul{
+    list-style: none;
+}
+
+.test ul li a{
+    display: block;
+    width: 120px;
+    font-size: 15px;
+    line-height: 40px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.test ul li{
+    /* 左浮动 使其横向布局 */
+    float: left;
+}
+
+.test{
+    margin: 0 auto;
+}
+
+.test ul li a:hover{
+    color: black;
+    background-color: white;
+}
+
+.test ul li ul li {
+    /* 清除子菜单浮动 */
+    clear: both;
+}
+
+.test ul li ul li a{
+    font-size: 13px;
+}
+
+.test ul li ul{
+    margin-left: -40px;
+    display: none;
+}
+
+.test ul li:hover ul{
+    display: block;
+}
+
+.test ul li ul li a{
+    background-color: white ;
+    color: black ;
+}
+
+.test ul li ul li a:hover{
+    color: white ;
+    background-color: black ;
+}
+
+.test > ul{
+    position: absolute;
+    z-index: 1;
+}
+
+.test1{
+    height: 85px;
+    width: 100%;
+    background-color: black;
+}
+
+.home{
+    background-color: black;
+    height: 40px;
+}
+
+.home ul{
+    list-style: none;
+    float: right;
+}
+
+.home li{
+    float: left;
+}
+
+.button1{
+    display: block;
+    line-height: 40px;
+    color: white;
+    padding: 0 20px;
+    text-decoration: none;
+    transition: .2s;
+}
+
+.button1:hover{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+.test2{
+   
+    width: 210px;
+    height: 30px;
+    margin-left: 1600px;
+    margin-top: -20px;
+    border: 1px solid white ;
+}
+.box22{
+    height: 261px;
+    width: 100%;  
+    padding-top: 30px;
+    background-color: black; 
+    border: 1px solid black;
+}
+
+.box23{
+    height: 60px;
+    width: 1140px;  
+    margin: auto;
+    padding: 20px;
+    border-bottom: 1px solid rgb(228, 226, 226);
+    background-color: black; 
+}
+
+span a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.box24{
+    height: 80px;
+    width: 1140px;  
+    margin: auto;
+    margin-top: 1px;
+    background-color: black; 
+    border-bottom: 1px solid rgb(235, 232, 232);
+}
+
+.box25{
+    height: 80px;
+    width: 1140px;  
+    margin: auto;
+    margin-top: 1px;
+    background-color: black; 
+    border: 1px solid black;
+}

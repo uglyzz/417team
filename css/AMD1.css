@@ -1,0 +1,607 @@
+.box1{
+    height: 40px;
+    background-color: black;
+}
+
+.box2{
+    height: 85px;
+    background-color: black;
+    border: 1px solid red;
+}
+
+.box3{
+    height: 111px;
+    background-color: white;
+}
+
+p{
+    font-size: 30px;
+    padding-left: 40px;
+    padding-top: 40px;    
+}
+
+.box4{
+    height: 111px;
+    background-color: white;
+}
+
+.box5{
+    height: 584px;
+    width: 100%;
+    padding-top: 50px;
+    background-image: url(../img/purple-lights-bg-1920x600.webp);
+
+}
+
+.box6{
+    height: 484px;
+    width: 1200px;
+    margin: auto;
+}
+
+.button2{
+    width: 200px;
+    height: 46px;
+    display: block;
+    border: 2px solid white;
+    line-height: 46px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.button2:hover{
+    border: none;
+    background-color: #554548;
+    color: white;
+    text-decoration: none;
+}
+
+.box7{
+    height: 94px;
+    width: 100%;
+    padding-top: 20px;
+    background-color: white;
+
+}
+
+.box8{
+    height: 54px;
+    width: 100%;
+    background-color: white;
+}
+
+.box9{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box10{
+    height: 67px;
+    width: 100%;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box11{
+    height: 94px;
+    width: 100%;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box12{
+    height: 368px;
+    width: 100%;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box13{
+    height: 62px;
+    width: 100%;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box14{
+    height: 260px;
+    width: 100%;
+    padding-top: 25px;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box15{
+    height: 210px;
+    width: 1140px;
+    margin: auto;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box16{
+    height: 67px;
+    width: 100%;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box17{
+    height: 94px;
+    width: 100%;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box18{
+    height: 184px;
+    width: 100%;
+    padding-top: 25px;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box19{
+    height: 134px;
+    width: 1140px;
+    margin: auto;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box20{
+    height: 685px;
+    width: 100%;
+    padding-top: 50px;
+    background-color: #333;
+    border: 1px solid #333;
+}
+
+.box21{
+    height: 585px;
+    width: 1170px;
+    margin: auto;
+    border: 1px solid #333;
+}
+
+.box22{
+    height: 261px;
+    width: 100%;  
+    padding-top: 30px;
+    background-color: black; 
+    border: 1px solid black;
+}
+
+.box23{
+    height: 60px;
+    width: 1140px;  
+    margin: auto;
+    padding: 20px;
+    border-bottom: 1px solid rgb(228, 226, 226);
+    background-color: black; 
+}
+
+span a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.box24{
+    height: 80px;
+    width: 1140px;  
+    margin: auto;
+    margin-top: 1px;
+    background-color: black; 
+    border-bottom: 1px solid rgb(235, 232, 232);
+}
+
+.box25{
+    height: 80px;
+    width: 1140px;  
+    margin: auto;
+    margin-top: 1px;
+    background-color: black; 
+    border: 1px solid black;
+}
+
+.spa a{
+    font-size: 13.5px;
+}
+
+.box26{
+    width: 100%;
+    height: 210px;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box27{
+    width: 990px;
+    height: 102px;
+    margin: auto;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box28{
+    width: 990px;
+    height: 50px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: black;
+    border: 1px solid black; 
+}
+
+.box29{
+    width: 100%;
+    padding-top: 50px;
+    
+    background-position: center;
+    background-image: url(../img/700302-red-smoke-bg-1920x800.webp);
+    border: 1px solid black;
+
+}
+
+.box30{
+    width: 1300px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+
+.box31{
+    width: 100%; 
+    background-position: center;
+    background-image: url(../img/amd-radeon-software-background-PIA-1920x600.webp);
+
+}
+
+.box32{
+    width: 1170px;
+    margin: auto;
+}
+
+
+.box33{
+    width: 100%;
+    padding-top: 30px;   
+    background-position: center;
+    background-image: url(../img/616656-ryzen-5000-series-background-blow-out.jpg);
+    border: 1px solid black;
+}
+
+.box34{
+    width: 1270px;
+    height: 515px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.box35{
+    width: 1270px;
+    height: 60px;
+    margin: auto;
+}
+
+.box36{
+    width: 1270px;
+    height: 455px;
+    margin: auto;
+}
+
+.box37{
+    width: 100%;
+    padding-top: 20px;   
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box38{
+    width: 100%;
+    height: 720px;
+    padding-top: 20px;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box39{
+    width: 1300px;
+    height: 680px;
+    margin: auto;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box40{
+    width: 100%;
+    height: 285px;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box41{
+    width: 1300px;
+    height: 285px;
+    margin: auto;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box42{
+    width: 100%;
+    height: 380px;
+    padding: 20px;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box43{
+    width: 1300px;
+    height: 340px;
+    margin: auto;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box45{
+    width: 100%;
+    height: 660px;
+    padding: 30px;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box46{
+    width: 1300px;
+    height: 600px;
+    margin: auto;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box47{
+    width: 600px;
+    height: 50px;
+    margin-top: 392px;
+    background-color: black;
+}
+
+.box48{
+    width: 100%;
+    height: 340px;
+    padding: 30px ;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box49{
+    width: 1300px;
+    height: 280px;
+    margin: auto;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box50{
+    width: 100%;
+    height: 460px;
+    padding: 10px ;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box51{
+    width: 1300px;
+    height: 440px;
+    margin: auto;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box52{
+    width: 100%; 
+    background-position: center;
+    background-image: url(../img/4-1.webp);
+    border: 1px solid black;
+}
+
+.box53{
+    height: 370px;
+    width: 1260px;
+    margin: auto;
+}
+
+.box54{
+    height: 380px;
+    width: 630px;
+    margin-top: -30px;
+    background-color: rgba(255, 255, 255, 0.84 );
+}
+
+.button3{
+    width: 200px;
+    height: 46px;
+    display: block;
+    border: 2px solid black;
+    line-height: 46px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+.button3:hover{
+    border: none;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.box55{
+    height: 370px;
+    width: 100%;
+    background-color: black;
+}
+
+.box56{
+    height: 370px;
+    width: 1270px;
+    margin: auto;
+}
+
+.box57{
+    width: 100%; 
+    background-position: center;
+    background-image: url(../img/4.5.webp);
+    border: 1px solid black;
+}
+
+.box58{
+    height: 280px;
+    width: 1170px;
+    margin: auto;
+}
+
+.box59{
+    height: 480px;
+    width: 100%;
+    background-color: black;
+    border: 1px solid black;
+}
+
+.box60{
+    height: 50px;
+    width: 1270px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.box61{
+    height: 380px;
+    width: 1270px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.box62{
+    background-color: #fff;
+}
+
+/* 导航栏二 */
+.test ul{
+    list-style: none;
+}
+
+.test ul li a{
+    display: block;
+    width: 120px;
+    font-size: 15px;
+    line-height: 40px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.test ul li{
+    /* 左浮动 使其横向布局 */
+    float: left;
+}
+
+.test{
+    margin: 0 auto;
+}
+
+.test ul li a:hover{
+    /* 动态颜色 */
+    color: black;
+    background-color: white;
+}
+
+.test ul li ul li {
+    /* 清除子菜单浮动 */
+    clear: both;
+}
+
+.test ul li ul li a{
+    font-size: 13px;
+}
+
+.test ul li ul{
+    margin-left: -40px;
+    /* 此元素不会被显示 */
+    display: none;
+}
+
+.test ul li:hover ul{
+    /* 显示为块级元素 */
+    display: block;
+}
+
+.test ul li ul li a{
+    background-color: white ;
+    color: black ;
+}
+
+.test ul li ul li a:hover{
+    color: white ;
+    background-color: black ;
+}
+
+.test > ul{
+    /* 绝对定位 */
+    position: absolute;
+    /* 优先级 */
+    z-index: 1;
+}
+
+.test1{
+    height: 85px;
+    width: 100%;
+    background-color: black;
+}
+
+/* 导航栏一 */
+.home{
+    background-color: black;
+    height: 40px;
+}
+
+.home ul{
+    list-style: none;
+    float: right;
+}
+
+.home li{
+    float: left;
+}
+
+.button1{
+    display: block;
+    line-height: 40px;
+    color: white;
+    padding: 0 20px;
+    text-decoration: none;
+    transition: .2s;
+}
+
+.button1:hover{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+.test2{
+    width: 210px;
+    height: 30px;
+    margin-left: 1200px;
+    margin-top: -20px;
+    border: 1px solid white ;
+}
+
+body{
+    zoom: 125%;
+}

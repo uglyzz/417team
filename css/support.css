@@ -1,0 +1,234 @@
+h2{
+    font-family: SimHei !important;
+}
+
+.home{
+    background-color: black;
+    height: 40px;
+}
+
+.home ul{
+    list-style: none;
+    float: right;
+}
+
+.float-l{
+    float: left;
+}
+
+.button1{
+    display: block;
+    line-height: 40px;
+    color: white;
+    padding: 0 20px;
+    text-decoration: none;
+    transition: .2s;
+}
+
+.button1:hover{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+.test ul{
+    list-style: none;
+}
+
+.test ul li a{
+    display: block;
+    width: 120px;
+    font-size: 15px;
+    line-height: 40px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.test ul li{
+    /* 左浮动 使其横向布局 */
+    float: left;
+}
+
+.test{
+    margin: 0 auto;
+}
+
+.test ul li a:hover{
+    color: black;
+    background-color: white;
+}
+
+.test ul li ul li {
+    /* 清除子菜单浮动 */
+    clear: both;
+}
+
+.test ul li ul li a{
+    font-size: 13px;
+}
+
+.test ul li ul{
+    margin-left: -40px;
+    display: none;
+}
+
+.test ul li:hover ul{
+    display: block;
+}
+
+.test ul li ul li a{
+    background-color: white ;
+    color: black ;
+}
+
+.test ul li ul li a:hover{
+    color: white ;
+    background-color: black ;
+}
+
+.test > ul{
+    position: absolute;
+    z-index: 1;
+}
+
+.test1{
+    height: 85px;
+    width: 100%;
+    background-color: black;
+}
+
+.search{
+    position: relative;
+    left: 50%;
+    float: right;
+    height: 30px;
+    border: 1px solid white;
+}
+
+.search-text{
+    outline: none;
+    background-color: transparent;
+    border: none;
+}
+
+.search-submit{
+    color: white;
+    background-color: transparent;
+    border: none;
+}
+
+.title{
+    margin: 35px 0;
+}
+
+.title span{
+    font-size: 30px;
+    padding: 40px;
+}
+
+.banner{
+    background-image: url(../img/770814-red-light-rays-bg-1920x600.webp);
+    background-position: center;
+}
+
+.banner img{
+    width: 100%;
+}
+
+.banner-text{
+    color: white;
+    margin-top: 60px;
+}
+
+.button3{
+    width: 200px;
+    height: 46px;
+    display: block;
+    border: 2px solid black;
+    line-height: 46px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 30px;
+    font-size: 16px;
+}
+
+.button3:hover{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+.select{
+    background-color: #e1e1e2;
+}
+
+.select-in{
+    padding: 50px;
+}
+
+.footer{
+    height: 260px;
+    background-color: black;
+}
+
+.footer a:hover{
+    transition: .2s;
+    color: #c7c8ca;
+    text-decoration: none;
+}
+
+.about{
+    padding: 30px 0 25px;
+    margin-bottom: 60px;
+    border-bottom: 2px solid #636466;
+}
+
+.about ul{
+    list-style: none;
+    padding: 0;
+}
+
+.about li{
+    float: left;
+    font-size: 18px;
+    font-weight: normal;
+    padding-right: 50px;
+}
+
+.about a{
+    color: white;
+}
+
+.sns a{
+    margin: 0 10px;
+    color: white;
+}
+
+.youku{
+    vertical-align: super;
+}
+
+.menu{
+    font-size: 13px;
+    padding-top: 10px;
+    border-top: 2px solid #636466;
+}
+
+.menu ul{
+    list-style: none;
+    padding: 0;
+}
+
+.menu li{
+    float: left;
+    padding-right: 15px;
+}
+
+.menu a, .menu li{
+    color: white;
+}

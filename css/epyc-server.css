@@ -1,0 +1,349 @@
+.inp{
+    height: 111px;
+    margin: 0px auto;
+}
+.inp1{
+    width: 291px;
+    height: 36px;
+    position: relative;
+    top: 37px;
+}
+.inp2{
+    height: 492px;
+    background-image: url(../img/720217-blue-server-bg-1920x600.webp);
+}
+.inp3{
+    width: 600px;
+    height: 342px;
+    background-color: white;
+    float: right;
+    margin-top: 60px;
+    margin-right: 65px;
+}
+.inp4{
+    width: 560px;
+    height: 20px;
+    margin: 0px auto;
+}
+.inp5{
+    width: 560px;
+    height: 134px;
+    margin: 0px auto;
+}
+.inp6{
+    width: 560px;
+    height: 64px;
+    margin: 0px auto;
+}
+.inp7{
+    width: 560px;
+    height: 56px;
+    margin: 0px auto;
+    font-size: 18px;
+}
+.but{
+    margin-top: 30px;
+    width: 200px;
+    height: 46px;
+    display: block;
+    border: 2px solid black;
+    line-height: 46px;
+    color: black;
+    text-align: center;
+}
+
+.but:hover{
+    border: 1px solid black;
+    background-color:  black;
+    color: white;
+    text-decoration: none;
+}
+.inp8{
+    width: 560px;
+    height: 80px;
+    margin: 0px auto;
+}
+.inp9{
+    text-align: center;
+    height: 147px;
+    
+}
+.inp10{
+    margin: 0px auto;
+    margin-top: 60px;
+}
+.inp11{
+    background-color: gainsboro;
+    padding-bottom: 30px;
+}
+.inp12{
+    margin-top: 55px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.imgs{
+    width: 100%;
+}
+.inp13 {
+    height: 76px;
+    text-align: center;
+}
+.inp14 a{
+    height: 46px;
+    margin: 0px auto;
+}
+.imgs1{
+    background-image: url(../img/720217-blur-server-bg-1920x600.webp);
+    margin-top: 50px;
+}
+.but1{
+    margin-top: 30px;
+    width: 200px;
+    height: 46px;
+    display: block;
+    border: 2px solid white;
+    line-height: 46px;
+    color: white;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.but1:hover{
+    border: 1px solid black;
+    background-color: darkgray;
+    color: white;
+    text-decoration: none;
+}
+.text2{
+    font-size: 40px;
+    color: white;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.inp15{
+    height: 425px;
+}
+.ap1{
+    margin-top: 100px;
+}
+.but2{
+    margin-top: 30px;
+    width: 200px;
+    height: 46px;
+    display: block;
+    border: 2px solid black;
+    line-height: 46px;
+    color: black;
+    text-align: center;
+}
+
+.but2:hover{
+    border: 1px solid black;
+    background-color:  black;
+    color: white;
+    text-decoration: none;
+}
+.inp16{
+    background-image: url(../img/582227-enterprise-glare-1920x600.webp);
+    height: 253px;
+    
+}
+.inp17{
+    height: 153px;
+    margin: 0px auto;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+.text3{
+    font-size: 40px;
+    color: white; 
+}
+.but3{
+    margin-top: 30px;
+    width: 200px;
+    height: 46px;
+    display: block;
+    border: 2px solid white;
+    line-height: 46px;
+    color: white;
+    text-align: center;
+    float: right;
+}
+
+.but3:hover{
+    border: 2px solid black;
+    background-color: none;
+    color: white;
+    text-decoration: none;
+}
+.but4{
+    margin-top: 30px;
+    width: 200px;
+    height: 46px;
+    display: block;
+    border: 2px solid white;
+    line-height: 46px;
+    color: white;
+    text-align: center;
+    
+}
+.but4:hover{
+    border: 2px solid black;
+    background-color: none;
+    color: white;
+    text-decoration: none;
+}
+.inp18{
+    padding: 50px;
+    background-color: gainsboro;
+}
+.imgs2{
+    width: 100%;
+    height: 100%;
+}
+.test ul{
+    list-style: none;
+}
+
+.test ul li a{
+    display: block;
+    width: 120px;
+    font-size: 15px;
+    line-height: 40px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.test ul li{
+    /* 左浮动 使其横向布局 */
+    float: left;
+}
+
+.test{
+    margin: 0 auto;
+}
+
+.test ul li a:hover{
+    color: black;
+    background-color: white;
+}
+
+.test ul li ul li {
+    /* 清除子菜单浮动 */
+    clear: both;
+}
+
+.test ul li ul li a{
+    font-size: 13px;
+}
+
+.test ul li ul{
+    margin-left: -40px;
+    display: none;
+}
+
+.test ul li:hover ul{
+    display: block;
+}
+
+.test ul li ul li a{
+    background-color: white ;
+    color: black ;
+}
+
+.test ul li ul li a:hover{
+    color: white ;
+    background-color: black ;
+}
+
+.test > ul{
+    position: absolute;
+    z-index: 1;
+}
+
+.test1{
+    height: 85px;
+    width: 100%;
+    background-color: black;
+}
+
+.home{
+    background-color: black;
+    height: 40px;
+}
+
+.home ul{
+    list-style: none;
+    float: right;
+}
+
+.home li{
+    float: left;
+}
+
+.button1{
+    display: block;
+    line-height: 40px;
+    color: white;
+    padding: 0 20px;
+    text-decoration: none;
+    transition: .2s;
+}
+
+.button1:hover{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+
+.test2{
+   
+    width: 210px;
+    height: 30px;
+    margin-left: 1600px;
+    margin-top: -20px;
+    border: 1px solid white ;
+}
+.box22{
+    height: 261px;
+    width: 100%;  
+    padding-top: 30px;
+    background-color: black; 
+    border: 1px solid black;
+}
+
+.box23{
+    height: 60px;
+    width: 1140px;  
+    margin: auto;
+    padding: 20px;
+    border-bottom: 1px solid rgb(228, 226, 226);
+    background-color: black; 
+}
+
+span a{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.box24{
+    height: 80px;
+    width: 1140px;  
+    margin: auto;
+    margin-top: 1px;
+    background-color: black; 
+    border-bottom: 1px solid rgb(235, 232, 232);
+}
+
+.box25{
+    height: 80px;
+    width: 1140px;  
+    margin: auto;
+    margin-top: 1px;
+    background-color: black; 
+    border: 1px solid black;
+}
